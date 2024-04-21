@@ -4,7 +4,7 @@ import sample_banner from "./sample_banner.png";
 import logo_sample from "./logo_sample.png";
 import logo3 from "./peer_logo_ver3.png";
 
-function App() {
+function App() { // after rebase is It good?
   return (
     <div className="App">
       <header className="App-header">
