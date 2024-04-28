@@ -17,11 +17,11 @@ function App() { // after rebase is It good?
         </p>
         <a
           className="App-link"
-          href="https://github.com/peer-42seoul/Peer-Frontend"
+          href="https://peer-study.notion.site/peer-web-application-4357c6a2739348de9476e09b1f81cfce?pvs=4"
           target="_blank"
           rel="noopener noreferrer"
         >
-          peer-study git repository 바로가기
+          peer-study application 소개 바로가기
         </a>
       </header>
     </div>
